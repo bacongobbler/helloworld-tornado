@@ -5,6 +5,11 @@ a python hello world app using Tornado.
 
 # Deployment
 
+## Local
+
+    $ pip install -r requirements.txt
+    $ python app.py
+
 ## Deis
 
     $ deis create
